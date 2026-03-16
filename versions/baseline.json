@@ -1,0 +1,8 @@
+{
+  "default": {
+    "neoactivemq-cpp": {
+      "baseline": "1.1.9",
+      "port-version": 0
+    }
+  }
+}
